@@ -49,7 +49,7 @@ This is a basic drone simulation using a PID controller. It features a 3D animat
 
 ## Running the Simulation
 
-1. From within the activated virtual environment, launch the main script. For example, if your entry point is drone_sim.py, run:
+1. From within the activated virtual environment, launch the main script. Run:
 
         bash python3 drone_sim.py
         
